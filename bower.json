@@ -1,3 +1,22 @@
 {
-  
+  "name": "graphExport",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Thomas Delage <thomas.delage@gadz.org>",
+    "Florent Gros <florent.gros@gadz.org>"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/Delfycs/graphExport",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
 }

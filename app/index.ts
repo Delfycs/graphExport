@@ -1,16 +1,8 @@
-var i = 1;
+/// <reference path="../typings/tsd.d.ts" />
 
-const u = 7;
+(function() {
 
-let w = 1;
-
-class toto {
-
-}
-
-interface gadz {
-  buque: string;
-  fams: number;
-}
-
-var delfycs: gadz = { buque:"Delfycs", fams: 52 };
+  angular
+    .module("ot.graph", []);
+  
+})();
